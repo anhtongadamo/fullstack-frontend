@@ -1,6 +1,9 @@
 import Vue from "vue";
 import Vuex from "vuex";
 
+import bookingModule from "./booking";
+import tourModule from "./tour";
+
 Vue.use(Vuex);
 
 export default new Vuex.Store({
@@ -8,5 +11,8 @@ export default new Vuex.Store({
   getters: {},
   mutations: {},
   actions: {},
-  modules: {},
+  modules: {
+    booking: bookingModule,
+    tour: tourModule,
+  },
 });
