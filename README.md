@@ -1,5 +1,5 @@
-# frontend
-
+# Fullstack-frontend (Vuejs)
+This is a frontend create by Vuejs for project fullstack-dev-test
 ## Project setup
 ```
 yarn install
