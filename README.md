@@ -1,5 +1,5 @@
 # Fullstack-frontend (Vuejs)
-This is a frontend create by Vuejs for project fullstack-dev-test
+This is a frontend create by Vuejs for testing integrate with Laravel API
 ## Project setup
 ```
 yarn install
